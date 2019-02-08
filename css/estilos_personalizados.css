@@ -1,0 +1,17 @@
+
+h5
+{
+  width: 100%;
+}
+#cont
+{
+  height: 500px;
+}
+.cuadrado{
+  width: 100px;
+  height: 100px;
+  background-color: #03a9f4;
+  text-align: center;
+  margin: 10px 20px;
+  display: inline-block;
+}
