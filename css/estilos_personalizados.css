@@ -11,11 +11,7 @@ h5
 {
   height: 100%;
 }
-.cuadrado{
-  width: 100px;
-  height: 100px;
-  background-color: #03a9f4;
-  text-align: center;
-  margin: 10px 20px;
-  display: inline-block;
+#cuadrado
+{
+  margin-top: 15px;
 }
