@@ -6,7 +6,10 @@ h5
 #cont
 {
   height: 100%;
-  background-color: #03a9f4
+}
+#contenido_img
+{
+  height: 100%;
 }
 .cuadrado{
   width: 100px;
