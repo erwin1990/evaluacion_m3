@@ -1,10 +1,16 @@
 
+body
+{
+background-size: 100% 100%;
+background-attachment:fixed;
+}
 h5
 {
   width: 100%;
 }
 #cont
 {
+  margin-top: 25px;
   height: 100%;
 }
 #contenido_img
@@ -14,4 +20,9 @@ h5
 #cuadrado
 {
   margin-top: 15px;
+}
+#log
+{
+  margin: 15px;
+  width: 200px;
 }
