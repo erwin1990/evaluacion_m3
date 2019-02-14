@@ -1,6 +1,8 @@
 
 body
 {
+background: url(img\fondo.jpg);
+background-position: top;
 background-size: 100% 100%;
 background-attachment:fixed;
 }
@@ -20,6 +22,11 @@ h5
 #cuadrado
 {
   margin-top: 15px;
+}
+#cuadrado_2
+{
+  margin-top: 15px;
+  height: 200px;
 }
 #log
 {
