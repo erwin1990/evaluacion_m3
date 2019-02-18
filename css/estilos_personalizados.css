@@ -2,16 +2,17 @@
 body
 {
 background-image: url('../img/fondo.jpg');
-background-position: top;
+
 background-size: cover;
 background-attachment:fixed;
 }
 #barra{
-height: 30vh;
+height: 20vh;
 width: 100%;
 background:#bbdefb;
 position: fixed;
 z-index: -1;
+margin: 0px;
 }
 h5
 {
@@ -19,7 +20,7 @@ h5
 }
 #cont
 {
-  margin-top: 25px;
+
   height: 100%;
 }
 #contenido_img
@@ -39,4 +40,9 @@ h5
 {
   margin: 15px;
   width: 200px;
+}
+#fondo
+{
+  background-color: white;
+  margin: 10px;
 }
