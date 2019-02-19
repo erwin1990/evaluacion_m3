@@ -1,0 +1,48 @@
+
+body
+{
+background-image: url('../img/fondo.jpg');
+
+background-size: cover;
+background-attachment:fixed;
+}
+#barra{
+height: 20vh;
+width: 100%;
+background:#bbdefb;
+position: fixed;
+z-index: -1;
+margin: 0px;
+}
+h5
+{
+  width: 100%;
+}
+#cont
+{
+
+  height: 100%;
+}
+#contenido_img
+{
+  height: 100%;
+}
+#cuadrado
+{
+  margin-top: 15px;
+}
+#cuadrado_2
+{
+  margin-top: 15px;
+  height: 200px;
+}
+#log
+{
+  margin: 15px;
+  width: 200px;
+}
+#fondo
+{
+  background-color: white;
+  margin: 10px;
+}
